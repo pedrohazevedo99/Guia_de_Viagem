@@ -1,0 +1,22 @@
+{
+    "Popular places": [
+      {
+        "place": "Jijoca de Jericoacoara",
+        "imageUrl": "url",
+        "rating": "4.5",
+        "price": "Acima de R$300"
+      },
+      {
+        "place": "Rio de Janeiro",
+        "imageUrl": "url",
+        "rating": "4.5",
+        "price": "Acima de R$150"
+      },
+      {
+        "place": "Florianópolis",
+        "imageUrl": "url",
+        "rating": "4.0",
+        "price": "Acima de R$250"
+      }
+    ]
+  }
