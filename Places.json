@@ -1,0 +1,62 @@
+[
+  {
+    "Popular places": [
+      {
+        "place": "Jijoca de Jericoacoara",
+        "imageUrl": "https://cache.quantocustaviajar.com/ckfinder/userfiles/images/pedra_furada_jericoacoara.jpg",
+        "rating": "4.5",
+        "price": "Acima de R$300"
+      },
+      {
+        "place": "Rio de Janeiro",
+        "imageUrl": "https://invexo.com.br/wp-content/uploads/2015/06/bairro-para-morar-no-Rio-de-Janeiro.jpg",
+        "rating": "4.5",
+        "price": "Acima de R$150"
+      },
+      {
+        "place": "Florianópolis",
+        "imageUrl": "https://anfitrioesdealuguel.com.br/blog/wp-content/uploads/2020/10/claiton-conto-LiJeLihNIbc-unsplash-445x445.jpg",
+        "rating": "4.0",
+        "price": "Acima de R$250"
+      }
+    ],
+    "All places": [
+      {
+        "place": "Jijoca de Jericoacoara",
+        "imageUrl": "https://cache.quantocustaviajar.com/ckfinder/userfiles/images/pedra_furada_jericoacoara.jpg",
+        "rating": "4.5",
+        "price": "Acima de R$300"
+      },
+      {
+        "place": "Rio de Janeiro",
+        "imageUrl": "https://invexo.com.br/wp-content/uploads/2015/06/bairro-para-morar-no-Rio-de-Janeiro.jpg",
+        "rating": "4.5",
+        "price": "Acima de R$150"
+      },
+      {
+        "place": "Florianópolis",
+        "imageUrl": "https://anfitrioesdealuguel.com.br/blog/wp-content/uploads/2020/10/claiton-conto-LiJeLihNIbc-unsplash-445x445.jpg",
+        "rating": "4.0",
+        "price": "Acima de R$250"
+      },
+      {
+        "place": "São Paulo",
+        "imageUrl": "https://i.pinimg.com/736x/11/2a/21/112a2108e528849447533450efb4178b.jpg",
+        "rating": "4.5",
+        "price": "Acima de R$150"
+      },
+      {
+        "place": "Brasília",
+        "imageUrl": "https://cache.quantocustaviajar.com/ckfinder/userfiles/images/Catedral_metropolitana_brasilia.jpg",
+        "rating": "3.5",
+        "price": "Acima de R$250"
+      },
+      {
+        "place": "Fortaleaza",
+        "imageUrl": "https://www.viajali.com.br/wp-content/uploads/2020/04/praia-de-iracema-11.jpg",
+        "rating": "4.0",
+        "price": "Acima de R$ 300"
+      }
+    ]
+  }
+]
